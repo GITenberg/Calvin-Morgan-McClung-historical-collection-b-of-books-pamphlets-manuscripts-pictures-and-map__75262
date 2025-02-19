@@ -1,0 +1,53 @@
+_repo: Calvin-Morgan-McClung-historical-collection-b-of-books-pamphlets-manuscripts-pictures-and-map__75262
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Luttrell, Laura Elizabeth
+    alias: Luttrell, Laura E.
+    birthdate: 1872
+    deathdate: 1973
+    gutenberg_agent_id: '57885'
+    url: http://www.gutenberg.org/2009/agents/57885
+  - agent_name: Rothrock, Mary U. (Mary Utopia)
+    alias: Rothrock, Mary Utopia
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '57911'
+    url: http://www.gutenberg.org/2009/agents/57911
+  other_contributor:
+    agent_name: McClung, Calvin Morgan
+    birthdate: 1855
+    deathdate: 1919
+    gutenberg_agent_id: '57881'
+    url: http://www.gutenberg.org/2009/agents/57881
+creator:
+  author:
+    agent_name: Lawson McGhee Library, Knoxville, Tenn.
+    gutenberg_agent_id: '57908'
+    url: http://www.gutenberg.org/2009/agents/57908
+description: ''
+gutenberg_issued: '2025-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75262'
+  lccn: '22022672'
+language: en
+pgterms:marc904: https://archive.org/details/calvinmorganmccl00laws/page/n1/mode/2up
+pgterms:marc905: 20230630125519author
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aKnoxville :$bKnoxville Lithographing Co., $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- Bibliography'
+- !lcsh 'Southern states -- Bibliography'
+- !lcc 'Z'
+- GITenberg
+title: 'Calvin Morgan McClung historical collection : $b of books, pamphlets, manuscripts,
+  pictures and maps relating to early western travel and the history and genealogy
+  of Tennessee and other southern states'
+url: http://www.gutenberg.org/ebooks/75262

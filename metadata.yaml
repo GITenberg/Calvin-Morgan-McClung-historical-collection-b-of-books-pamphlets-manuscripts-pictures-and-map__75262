@@ -20,12 +20,17 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '57881'
     url: http://www.gutenberg.org/2009/agents/57881
+covers:
+- cover_type: archival
+  image_path: 75262-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawson McGhee Library, Knoxville, Tenn.
     gutenberg_agent_id: '57908'
     url: http://www.gutenberg.org/2009/agents/57908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75262#Calvin-Morgan-McClung-historical-collection-b-of-books-pamphlets-manuscripts-pictures-and-map_
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
